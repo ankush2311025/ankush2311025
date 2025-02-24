@@ -55,6 +55,6 @@
 
 ## Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="Code is like humor. When you have to explain it, it’s bad." - Cory House)
+!"Code is like humor. When you have to explain it, it’s bad." - Cory House)
 
 Show some ❤️ by starring some repositories!
