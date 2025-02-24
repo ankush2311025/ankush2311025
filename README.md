@@ -17,12 +17,10 @@
 ### Technologies And Tools
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=C++&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express&logoColor=fff)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?&logo=Socket.io&logoColor=fff)
@@ -57,6 +55,6 @@
 
 ## Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="First, solve the problem. Then, write the code." - John Johnson)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="Code is like humor. When you have to explain it, it’s bad." - Cory House)
 
 Show some ❤️ by starring some repositories!
