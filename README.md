@@ -7,7 +7,7 @@
 ## 🎯 Quick Highlights
 
 - 🔭 I'm currently working on Backend Optimisation
-- 🌱 Learning DevOps & Cloud Computing
+- 🌱 Learning DevOps & CP
 - 👯 Open to collaborate on Open Source Projects
 - 💬 Ask me about Full Stack Development and Software Development
 - ⚡ Fun fact: I can debug code faster than I can debug my life decisions 😄
@@ -48,10 +48,10 @@
 ## 🤝 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_username/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ANKUSH SHARMA/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankush2311025)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your_portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucent-malasada-397ee6.netlify.app/)
 
 ## Random Dev Quote
 
