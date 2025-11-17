@@ -6,7 +6,7 @@
 ```yaml
 name: Ankush
 location: India
-current_job: Full Stack Developer
+current_job: Backend Developer
 education: 
   [
     "Self-Taught Developer",
