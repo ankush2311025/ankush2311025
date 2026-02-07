@@ -24,7 +24,7 @@ technical_background:
     "Backend Developer",
     "DevOps Engineer"
   ]
-currently_learning: ["AWS", "System Design", "Microservices"]
+currently_learning: ["AWS", "System Design", "Microservices", "DataBases"]
 2025_goals: ["Create 20+ Projects", "Learn 5 New Technologies"]
 hobbies: ["Coding", "Problem Solving", "Reading Tech Blogs"]
 ```
@@ -48,6 +48,7 @@ hobbies: ["Coding", "Problem Solving", "Reading Tech Blogs"]
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Nestjs](![Netlify](https://nestjs.com/logo-small-gradient.0ed287ce.svg)
 
 </div>
 
